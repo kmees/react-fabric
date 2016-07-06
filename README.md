@@ -1,5 +1,7 @@
 # react-fabric [![npm](https://img.shields.io/npm/v/react-fabric.svg?style=flat-square)](https://www.npmjs.com/package/react-fabric) [![npm](https://img.shields.io/npm/dt/react-fabric.svg?style=flat-square)](https://www.npmjs.com/package/react-fabric) [![Build Status](http://img.shields.io/travis/kmees/react-fabric.svg?style=flat-square)](https://travis-ci.org/kmees/react-fabric) [![Coveralls](https://img.shields.io/coveralls/kmees/react-fabric/development.svg?style=flat-square)](https://coveralls.io/github/kmees/react-fabric) [![npm](https://img.shields.io/npm/l/react-fabric.svg?style=flat-square)](https://www.npmjs.com/package/react-fabric)
 
+[![Join the chat at https://gitter.im/kmees/react-fabric](https://badges.gitter.im/kmees/react-fabric.svg)](https://gitter.im/kmees/react-fabric?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 react-fabric is a set of [React](http://facebook.github.io/react/) components that wrap the [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric)
 
 ## Installation
